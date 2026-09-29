@@ -1,0 +1,6 @@
+name: genpark-iterative-refinement-convergence-detector-skill
+version: 1.0.0
+description: Sequential code revision similarity and edit distance monitor detecting convergence and cyclic oscillation
+command: python
+args:
+  - mcp_server.py
