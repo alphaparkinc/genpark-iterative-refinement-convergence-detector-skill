@@ -1,0 +1,20 @@
+{
+  "name": "genpark-iterative-refinement-convergence-detector-skill",
+  "version": "1.0.0",
+  "description": "Sequential code revision similarity and edit distance monitor detecting convergence and cyclic oscillation",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "convergence-detector",
+    "refinement-loop",
+    "edit-distance",
+    "sequence-matcher",
+    "oscillation-guard",
+    "python-standard-library",
+    "agent-skills",
+    "diff-analyzer",
+    "stopping-condition",
+    "developer-tools"
+  ]
+}
